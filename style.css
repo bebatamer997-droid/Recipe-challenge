@@ -1,0 +1,87 @@
+body{
+    background-color: #f3e6d8;
+    font-size: 16px;
+    justify-content: center;
+    display: flex;
+
+}
+main{
+    background-color: #ffffff;
+    width: 35%;
+    border-radius: 20px;
+    margin: 20px;
+    justify-content: center;
+    padding-inline-start: 20px;
+    padding-inline-end: 20px;
+    padding: 20px;
+
+}
+img{
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    display: flex;
+    border-radius: 20px;
+}
+header h1{
+    font-family: url(Young_Serif.zip);
+}
+header p{
+    font-family:url(Outfit,Young_Serif.zip) ;
+    color: #5f574e;
+}
+.prepare{
+    font-family: url(Young_Serif.zip);
+    color: #7b284f;
+    padding-inline-start: 20px;
+}
+.preparations{
+    background-color: #fff5fa;
+    padding: 5px;
+}
+.listone li::marker{
+    color: #7b284f;
+}
+.bold{ 
+    font-weight: bold;
+}
+h2{
+    color:#854632;
+    padding-inline-start: 15px;
+}
+ul li::marker{
+    color: #854632;
+}
+ol li::marker{
+    color: #854632;
+    font-weight: bold;
+}
+li{
+    color:#5f574e;
+    margin-bottom: 10px;
+}
+p{
+    color: #5f574e;
+}
+td{
+    color: #5f574e;
+    border-bottom: 1px solid #5f574e;
+    padding: 12px;
+}
+.nutritions{
+    color: #854632;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+hr{
+    color: #5f574e;
+}
+tr:last-child td{
+    border-bottom: none;
+}
+
+
+
